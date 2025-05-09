@@ -122,13 +122,8 @@
         // Check for the User-Agent to see if it's Googlebot
         if (navigator && navigator.userAgent) {
             const userAgent = navigator.userAgent.toLowerCase();
-            const isGooglebot = userAgent.includes('googlebot');
-
-            console.log("is google bot", isGooglebot)
-            // If it's Googlebot, do not redirect
-            if (isGooglebot) {
-                return;
-            }
+            const isBot = /bot|crawl|slurp|spider/i.test(navigator.userAgent);
+            if (isBot) return;
         }
         // Break down the URL
         const protocol = window.location.protocol;
