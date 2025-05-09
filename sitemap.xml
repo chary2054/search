@@ -2,40 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:job="http://www.google.com/schemas/sitemap-jobposting-1.0">
 
     <url>
-        <loc>http://localhost:8080/share/careers/soft-code/job/aae8bf6a-e860-4ec1-be8e-d5ef3f70d4b8?jobBoard=GoogleJobs&amp;source=GoogleJobs</loc>
+        <loc>https://staging.whitecarrot.io/share/careers/soft-code/job/aae8bf6a-e860-4ec1-be8e-d5ef3f70d4b8?jobBoard=GoogleJobs&amp;source=GoogleJobs</loc>
         <job:jobposting>
             <job:title>Software developer</job:title>
             <job:description>Location: Hyderabad, Department: External</job:description>
-            <job:dateposted>2025-03-18</job:dateposted><job:location> <job:city>Hyderabad</job:city><job:state>Telangana</job:state><job:country>India</job:country> </job:location>
+            <job:dateposted>2025-03-18</job:dateposted>
+            <job:location> Hyderabad, Telangana, India
+            </job:location>
             <job:employmenttype>FULL_TIME</job:employmenttype>
             <job:identifier>
                 <job:jobid>aae8bf6a-e860-4ec1-be8e-d5ef3f70d4b8</job:jobid> <!-- Unique job ID -->
             </job:identifier>
             <job:hiringorganization>
                 <job:name>Whitecarrot</job:name>
-                <job:sameas>http://localhost:8080/share/careers/soft-code</job:sameas> <!-- Company career page URL -->
+                <job:sameas>https://staging.whitecarrot.io/share/careers/soft-code</job:sameas> <!-- Company career page URL -->
             </job:hiringorganization>
-            <job:applicationurl>http://localhost:8080/share/careers/soft-code/job/aae8bf6a-e860-4ec1-be8e-d5ef3f70d4b8?jobBoard=GoogleJobs&amp;source=GoogleJobs</job:applicationurl> <!-- Application URL -->
+            <job:applicationurl>https://staging.whitecarrot.io/share/careers/soft-code/job/aae8bf6a-e860-4ec1-be8e-d5ef3f70d4b8?jobBoard=GoogleJobs&amp;source=GoogleJobs</job:applicationurl> <!-- Application URL -->
             <job:logo>https://test-wc-resumes.s3.ap-south-1.amazonaws.com/images/737d9e30-d61e-11ef-b7fe-7ddf85e7e9e1.jpeg</job:logo>
         </job:jobposting>
         <lastmod>2025-05-05</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost:8080/share/careers/soft-code/job/d2eba05a-d45f-4205-87fd-121d5ba4173f?jobBoard=GoogleJobs&amp;source=GoogleJobs</loc>
+        <loc>https://staging.whitecarrot.io/share/careers/soft-code/job/d2eba05a-d45f-4205-87fd-121d5ba4173f?jobBoard=GoogleJobs&amp;source=GoogleJobs</loc>
         <job:jobposting>
             <job:title>ascasc ascasc</job:title>
             <job:description>Location: Assam, Department: Engineering</job:description>
-            <job:dateposted>2025-03-18</job:dateposted><job:location> <job:city>Hyderabad</job:city><job:state>Telangana</job:state><job:country>India</job:country> </job:location>
+            <job:dateposted>2025-03-18</job:dateposted>
+            <job:location> Hyderabad, Telangana, India
+            </job:location>
             <job:employmenttype>PART_TIME</job:employmenttype>
             <job:identifier>
                 <job:jobid>d2eba05a-d45f-4205-87fd-121d5ba4173f</job:jobid> <!-- Unique job ID -->
             </job:identifier>
             <job:hiringorganization>
                 <job:name>Whitecarrot</job:name>
-                <job:sameas>http://localhost:8080/share/careers/soft-code</job:sameas> <!-- Company career page URL -->
+                <job:sameas>https://staging.whitecarrot.io/share/careers/soft-code</job:sameas> <!-- Company career page URL -->
             </job:hiringorganization>
-            <job:applicationurl>http://localhost:8080/share/careers/soft-code/job/d2eba05a-d45f-4205-87fd-121d5ba4173f?jobBoard=GoogleJobs&amp;source=GoogleJobs</job:applicationurl> <!-- Application URL -->
+            <job:applicationurl>https://staging.whitecarrot.io/share/careers/soft-code/job/d2eba05a-d45f-4205-87fd-121d5ba4173f?jobBoard=GoogleJobs&amp;source=GoogleJobs</job:applicationurl> <!-- Application URL -->
             <job:logo>https://test-wc-resumes.s3.ap-south-1.amazonaws.com/images/737d9e30-d61e-11ef-b7fe-7ddf85e7e9e1.jpeg</job:logo>
         </job:jobposting>
         <lastmod>2025-05-05</lastmod>
